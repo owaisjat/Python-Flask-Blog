@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com/coding.thunder/",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Blog",
+    "tagline": "A blog liked by Programmers and Owais Rasool",
+    "gmail-user": "owaisrasool.amz@gmail.com",
+    "gmail-password": "osswkyiuemqrqldg"
+  }
+}
